@@ -1,0 +1,265 @@
+
+/* =========================================================
+   ROJIBLANCA FC — MOBILE
+========================================================= */
+@media (max-width: 768px) {
+    .header {
+        min-height: 64px;
+        padding: 9px 14px;
+    }
+
+    .header-left {
+        width: 100%;
+        gap: 12px;
+    }
+
+    .logo img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .logo span {
+        font-size: 16px;
+    }
+
+    .hamburger {
+        display: block !important;
+    }
+
+    .nav-left {
+        display: none !important;
+        position: absolute;
+        top: 64px;
+        left: 12px;
+        right: 12px;
+        width: auto;
+        padding: 8px;
+        flex-direction: column;
+        align-items: stretch;
+        gap: 3px;
+        border: 1px solid var(--line);
+        border-radius: 14px;
+        background: rgba(255,255,255,.98);
+        box-shadow: 0 18px 45px rgba(20,24,32,.14);
+        backdrop-filter: blur(18px);
+    }
+
+    .nav-left.open,
+    .nav-left.open-mobile {
+        display: flex !important;
+    }
+
+    .nav-left a {
+        padding: 12px 14px;
+        text-align: left;
+    }
+
+    .nav-left a.active::after {
+        left: 14px;
+        right: auto;
+        width: 24px;
+        bottom: 7px;
+    }
+
+    .main-content {
+        min-height: calc(100vh - 115px);
+        padding: 34px 15px 60px;
+    }
+
+    .footer {
+        padding: 20px 15px;
+    }
+
+    body.home-page .main-content {
+        min-height: calc(100vh - 115px);
+        padding: 24px 15px 44px;
+    }
+
+    .hero {
+        margin-bottom: 14px;
+        padding: 38px 20px;
+        border-radius: 21px;
+    }
+
+    .hero h2 {
+        font-size: 32px;
+        letter-spacing: -1px;
+    }
+
+    .hero p {
+        font-size: 14px;
+    }
+
+    .cards {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+
+    .card {
+        min-height: 112px;
+        padding: 19px;
+    }
+
+    .card h3 {
+        font-size: 18px;
+    }
+
+    .card p {
+        font-size: 12px;
+    }
+
+    .results-title {
+        margin-bottom: 26px;
+        font-size: 30px;
+    }
+
+    .team-section {
+        margin-bottom: 34px;
+    }
+
+    .team-section h3 {
+        margin-bottom: 13px;
+        font-size: 19px;
+    }
+
+    .players-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 8px;
+    }
+
+    .player-card {
+        min-height: 78px;
+        padding: 11px;
+        border-radius: 12px;
+    }
+
+    .player-card h4 {
+        font-size: 12px;
+    }
+
+    .player-card p {
+        width: 30px;
+        height: 30px;
+        font-size: 12px;
+    }
+
+    .results-container {
+        padding-top: 30px;
+    }
+
+    .ranking-section {
+        margin-bottom: 28px;
+        padding: 16px;
+    }
+
+    .ranking-button-container {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .ranking-button {
+        width: 100% !important;
+        min-width: 0;
+    }
+
+    .results-row {
+        margin-bottom: 30px;
+    }
+
+    .results-pair {
+        grid-template-columns: 1fr !important;
+        gap: 8px;
+    }
+
+    .results-list {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    .match-card {
+        min-height: 52px;
+        padding: 9px 10px;
+    }
+
+    .match-teams {
+        font-size: 11px;
+    }
+
+    .match-score {
+        min-width: 52px;
+        font-size: 13px;
+    }
+
+    body.stats-page .main-content {
+        padding-top: 30px;
+    }
+
+    .stats-filters {
+        grid-template-columns: 1fr !important;
+        gap: 9px !important;
+        margin-bottom: 18px !important;
+    }
+
+    .stats-summary {
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+        gap: 8px !important;
+        margin-bottom: 18px !important;
+    }
+
+    .stat-card {
+        min-height: 88px;
+        padding: 14px 12px;
+    }
+
+    .stat-card .kpi {
+        font-size: 24px;
+    }
+
+    .charts-podium-container,
+    body.player-page .charts-podium-container {
+        grid-template-columns: 1fr !important;
+        gap: 12px !important;
+    }
+
+    .charts-panel,
+    .podium-panel {
+        padding: 15px !important;
+        border-radius: 15px;
+    }
+
+    .charts-panel > div {
+        flex-direction: column !important;
+    }
+
+    .player-stats-grid,
+    body.player-page .player-details-container .player-stats-grid {
+        grid-template-columns: 1fr !important;
+    }
+
+    body.player-page .charts-podium-container {
+        margin-bottom: 16px !important;
+    }
+
+    .player-stat-card {
+        min-height: 68px;
+        padding: 11px;
+    }
+
+    body.player-page #ranks > div {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 380px) {
+    .logo span {
+        display: none;
+    }
+
+    .players-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .stats-summary {
+        grid-template-columns: 1fr !important;
+    }
+}

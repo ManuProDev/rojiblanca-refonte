@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="theme-color" content="#c91524">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no, address=no, email=no">
+    <title>Rojiblanca FC - Statistiques</title>
+    <link rel="icon" href="images/favicon.png" type="image/png">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/mobile.css">
+    <link rel="stylesheet" href="css/desktop.css">
+    <link rel="stylesheet" href="css/stats-refonte.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body class="stats-page">
+<header class="header">
+    <div class="header-left">
+        <a href="index.html" class="logo-link">
+            <div class="logo">
+                <img src="images/logo.png" alt="Rojiblanca FC">
+                <span>Rojiblanca FC</span>
+            </div>
+        </a>
+        <button class="hamburger" type="button" aria-label="Ouvrir le menu" aria-expanded="false">
+            <span></span><span></span><span></span>
+        </button>
+        <nav class="nav-left">
+            <a href="index.html">Accueil</a>
+            <a href="team.html">Équipe</a>
+            <a href="results.html">Résultats</a>
+            <a href="stats.html" class="active">Statistiques</a>
+        </nav>
+    </div>
+</header>
+
+<main class="main-content">
+    <div class="stats-shell">
+        <header class="stats-heading">
+            <div class="stats-eyebrow">Tableau de bord</div>
+            <h1>Statistiques</h1>
+            <p>Une vue synthétique des performances de Rojiblanca FC, avec filtres par équipe et type de rencontre.</p>
+        </header>
+
+        <section class="data-filters" aria-label="Filtres statistiques">
+            <div class="data-filter">
+                <label for="teamFilter">Équipe</label>
+                <select id="teamFilter">
+                    <option value="all">Total</option>
+                    <option value="Rojiblanca 7">Rojiblanca 7</option>
+                    <option value="Rojiblanca 11">Rojiblanca 11</option>
+                </select>
+            </div>
+            <div class="data-filter">
+                <label for="matchTypeFilter">Type de matchs</label>
+                <select id="matchTypeFilter">
+                    <option value="all">Total</option>
+                    <option value="official">Officiels</option>
+                    <option value="league">Championnat</option>
+                    <option value="cup">Coupe</option>
+                    <option value="friendly">Amicaux</option>
+                </select>
+            </div>
+        </section>
+
+        <section id="statsSummary" class="data-kpis" aria-label="Indicateurs clés"></section>
+
+        <section class="data-visuals">
+            <article class="data-card">
+                <header class="data-card-header">
+                    <div class="data-card-title">Résultats</div>
+                    <div class="data-card-subtitle">Répartition des matchs joués</div>
+                </header>
+                <div class="data-chart"><canvas id="pieWDL"></canvas></div>
+            </article>
+
+            <article class="data-card">
+                <header class="data-card-header">
+                    <div class="data-card-title">Buts</div>
+                    <div class="data-card-subtitle">Production offensive et buts encaissés</div>
+                </header>
+                <div class="data-chart"><canvas id="barGoals"></canvas></div>
+            </article>
+        </section>
+
+        <section class="data-card data-podium-card">
+            <header class="data-card-header">
+                <div class="data-card-title">Podium offensif</div>
+                <div class="data-card-subtitle">Buts + passes décisives sur la sélection actuelle</div>
+            </header>
+            <div id="podium" class="data-podium-grid"></div>
+        </section>
+
+        <section>
+            <div class="data-section-heading">
+                <div>
+                    <h2>Statistiques personnelles</h2>
+                    <p>Classement offensif de l'effectif</p>
+                </div>
+            </div>
+            <div id="players-stats-grid" class="data-players-grid"></div>
+        </section>
+    </div>
+</main>
+
+<footer class="footer"><p>© Rojiblanca FC</p></footer>
+
+<script src="js/stats.js"></script>
+<script>
+(() => {
+    const btn = document.querySelector(".hamburger");
+    const nav = document.querySelector(".nav-left");
+    if (!btn || !nav) return;
+    btn.addEventListener("click", () => {
+        const open = nav.classList.toggle("open-mobile");
+        btn.classList.toggle("open", open);
+        btn.setAttribute("aria-expanded", String(open));
+    });
+    nav.querySelectorAll("a").forEach(a => a.addEventListener("click", () => {
+        nav.classList.remove("open-mobile");
+        btn.classList.remove("open");
+        btn.setAttribute("aria-expanded", "false");
+    }));
+})();
+</script>
+</body>
+</html>
