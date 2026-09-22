@@ -1,0 +1,10 @@
+
+/* =========================================================
+   ROJIBLANCA FC — DESKTOP
+   Les règles principales sont désormais dans style.css.
+========================================================= */
+@media (min-width: 769px) {
+    .hamburger {
+        display: none !important;
+    }
+}
