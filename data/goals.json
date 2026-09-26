@@ -6,9 +6,9 @@
   { "id": 5, "matchId": 1, "type": "Friendly", "goal": "Rayane Bsr", "assist": "Naël Lts", "ag": false },
   { "id": 6, "matchId": 1, "type": "Friendly", "goal": "Naël Lts", "assist": "Paul Vcn", "ag": false },
   { "id": 7, "matchId": 1, "type": "Friendly", "goal": "Naël Lts", "assist": "Hugo Lcm", "ag": false },
-  { "id": 8, "matchId": 1, "type": "Friendly", "goal": "Adel Abc", "assist": "Alix Rmd", "ag": false },
+  { "id": 8, "matchId": 1, "type": "Friendly", "goal": "Adel Mln", "assist": "Alix Rmd", "ag": false },
   { "id": 9, "matchId": 1, "type": "Friendly", "goal": "Hugo Prz", "assist": "Manuel Prn", "ag": false },
-  { "id": 10, "matchId": 1, "type": "Friendly", "goal": "Rayane Bsr", "assist": "François-Xavier Nre", "ag": false },
+  { "id": 10, "matchId": 1, "type": "Friendly", "goal": "Francisco Blm", "assist": "François-Xavier Nre", "ag": false },
   { "id": 11, "matchId": 2, "type": "League", "goal": "Rayane Bsr", "assist": "François-Xavier Nre", "ag": false },
   { "id": 12, "matchId": 2, "type": "League", "goal": "Matteo Knt", "assist": "Solo", "ag": false },
   { "id": 13, "matchId": 2, "type": "League", "goal": "Hugo Lcm", "assist": "Hugo Prz", "ag": false }
