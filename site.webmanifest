@@ -1,0 +1,11 @@
+{
+  "name": "Rojiblanca FC",
+  "short_name": "Rojiblanca",
+  "icons": [
+    {"src": "images/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "images/favicon-512.png", "sizes": "512x512", "type": "image/png"}
+  ],
+  "theme_color": "#c8102e",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
