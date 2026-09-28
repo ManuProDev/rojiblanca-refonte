@@ -7,12 +7,12 @@
   {
     "matchId": 1,
     "player": "Hugo Prd",
-    "present": true
+    "present": false
   },
   {
     "matchId": 1,
     "player": "Sami Prk",
-    "present": false
+    "present": true
   },
   {
     "matchId": 1,
