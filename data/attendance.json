@@ -16,18 +16,13 @@
   },
   {
     "matchId": 1,
-    "player": "Yvonnic Frn",
-    "present": false
-  },
-  {
-    "matchId": 1,
     "player": "Manuel Prn",
     "present": true
   },
   {
     "matchId": 1,
     "player": "Octave Gvr",
-    "present": false
+    "present": true
   },
   {
     "matchId": 1,
@@ -37,22 +32,7 @@
   {
     "matchId": 1,
     "player": "Augustin Gsm",
-    "present": false
-  },
-  {
-    "matchId": 1,
-    "player": "François Drr",
-    "present": false
-  },
-  {
-    "matchId": 1,
-    "player": "Pierre Hnr",
     "present": true
-  },
-  {
-    "matchId": 1,
-    "player": "Marcus Drg",
-    "present": false
   },
   {
     "matchId": 1,
@@ -77,7 +57,7 @@
   {
     "matchId": 1,
     "player": "Hugo Prz",
-    "present": false
+    "present": true
   },
   {
     "matchId": 1,
@@ -86,58 +66,28 @@
   },
   {
     "matchId": 1,
-    "player": "Baptiste Dde",
-    "present": false
-  },
-  {
-    "matchId": 1,
-    "player": "Alix Rmd",
-    "present": false
-  },
-  {
-    "matchId": 1,
-    "player": "Léo Csg",
-    "present": false
-  },
-  {
-    "matchId": 1,
     "player": "Naël Lts",
-    "present": false
-  },
-  {
-    "matchId": 1,
-    "player": "Paul Vcn",
-    "present": false
+    "present": true
   },
   {
     "matchId": 1,
     "player": "Yacine Imn",
-    "present": false
-  },
-  {
-    "matchId": 1,
-    "player": "François-Xavier Nre",
     "present": true
   },
   {
     "matchId": 1,
     "player": "Fransisco Bmd",
-    "present": false
-  },
-  {
-    "matchId": 1,
-    "player": "Matteo Knt",
-    "present": false
+    "present": true
   },
   {
     "matchId": 1,
     "player": "Dani Grc",
-    "present": false
+    "present": true
   },
   {
     "matchId": 1,
     "player": "Amir Blg",
-    "present": false
+    "present": true
   },
   {
     "matchId": 1,
@@ -146,38 +96,28 @@
   },
   {
     "matchId": 1,
-    "player": "William Bdr",
-    "present": false
-  },
-  {
-    "matchId": 1,
-    "player": "Enzo Khf",
-    "present": false
-  },
-  {
-    "matchId": 1,
     "player": "Marius Srs",
-    "present": false
-  },
-  {
-    "matchId": 1,
-    "player": "Arthur Hrt",
-    "present": false
-  },
-  {
-    "matchId": 1,
-    "player": "Joffrey Vtg",
-    "present": false
+    "present": true
   },
   {
     "matchId": 1,
     "player": "Adel Mln",
-    "present": false
+    "present": true
   },
   {
     "matchId": 1,
     "player": "Leo Mcl",
-    "present": false
+    "present": true
+  },
+  {
+    "matchId": 1,
+    "player": "Marin Bbt",
+    "present": true
+  },
+  {
+    "matchId": 1,
+    "player": "Simon Wrn",
+    "present": true
   },
   {
     "matchId": 2,
@@ -187,16 +127,11 @@
   {
     "matchId": 2,
     "player": "Hugo Prd",
-    "present": true
+    "present": false
   },
   {
     "matchId": 2,
     "player": "Sami Prk",
-    "present": true
-  },
-  {
-    "matchId": 2,
-    "player": "Yvonnic Frn",
     "present": true
   },
   {
@@ -207,7 +142,7 @@
   {
     "matchId": 2,
     "player": "Octave Gvr",
-    "present": false
+    "present": true
   },
   {
     "matchId": 2,
@@ -221,23 +156,8 @@
   },
   {
     "matchId": 2,
-    "player": "François Drr",
-    "present": false
-  },
-  {
-    "matchId": 2,
-    "player": "Pierre Hnr",
-    "present": true
-  },
-  {
-    "matchId": 2,
-    "player": "Marcus Drg",
-    "present": true
-  },
-  {
-    "matchId": 2,
     "player": "Sophiane Mlh",
-    "present": true
+    "present": false
   },
   {
     "matchId": 2,
@@ -252,42 +172,22 @@
   {
     "matchId": 2,
     "player": "Bastien Lbc",
-    "present": true
+    "present": false
   },
   {
     "matchId": 2,
     "player": "Hugo Prz",
-    "present": true
+    "present": false
   },
   {
     "matchId": 2,
     "player": "Rayane Bsr",
-    "present": false
-  },
-  {
-    "matchId": 2,
-    "player": "Baptiste Dde",
-    "present": true
-  },
-  {
-    "matchId": 2,
-    "player": "Alix Rmd",
-    "present": false
-  },
-  {
-    "matchId": 2,
-    "player": "Léo Csg",
     "present": true
   },
   {
     "matchId": 2,
     "player": "Naël Lts",
-    "present": true
-  },
-  {
-    "matchId": 2,
-    "player": "Paul Vcn",
-    "present": true
+    "present": false
   },
   {
     "matchId": 2,
@@ -296,18 +196,8 @@
   },
   {
     "matchId": 2,
-    "player": "François-Xavier Nre",
-    "present": true
-  },
-  {
-    "matchId": 2,
     "player": "Fransisco Bmd",
-    "present": false
-  },
-  {
-    "matchId": 2,
-    "player": "Matteo Knt",
-    "present": false
+    "present": true
   },
   {
     "matchId": 2,
@@ -326,32 +216,7 @@
   },
   {
     "matchId": 2,
-    "player": "William Bdr",
-    "present": false
-  },
-  {
-    "matchId": 2,
-    "player": "Enzo Khf",
-    "present": false
-  },
-  {
-    "matchId": 2,
     "player": "Marius Srs",
-    "present": false
-  },
-  {
-    "matchId": 3,
-    "player": "Alexandre Mdg",
-    "present": false
-  },
-  {
-    "matchId": 2,
-    "player": "Arthur Hrt",
-    "present": false
-  },
-  {
-    "matchId": 2,
-    "player": "Joffrey Vtg",
     "present": false
   },
   {
@@ -362,6 +227,16 @@
   {
     "matchId": 2,
     "player": "Leo Mcl",
+    "present": false
+  },
+  {
+    "matchId": 2,
+    "player": "Marin Bbt",
+    "present": false
+  },
+  {
+    "matchId": 2,
+    "player": "Simon Wrn",
     "present": false
   }
 ]
