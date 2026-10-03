@@ -11,5 +11,7 @@
   { "id": 10, "matchId": 1, "type": "Friendly", "goal": "Francisco Bmd", "assist": "Solo", "ag": false },
   { "id": 11, "matchId": 2, "type": "League", "goal": "Hugo Lcm", "assist": "Solo", "ag": false },
   { "id": 12, "matchId": 2, "type": "League", "goal": "Hugo Lcm", "assist": "Manuel Prn", "ag": false },
-  { "id": 13, "matchId": 2, "type": "League", "goal": "Manuel Prn", "assist": "Augustin Gsm", "ag": false }
+  { "id": 13, "matchId": 2, "type": "League", "goal": "Manuel Prn", "assist": "Augustin Gsm", "ag": false },
+  { "id": 14, "matchId": 4, "type": "League", "goal": "Francisco Bmd", "assist": "Alexis Mcl", "ag": false },
+  { "id": 15, "matchId": 4, "type": "League", "goal": "Francisco Bmd", "assist": "Sami Prk", "ag": false },
 ]
