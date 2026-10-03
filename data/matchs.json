@@ -25,5 +25,14 @@
     "result": "Loss",
     "goals1": 0,
     "goals2": 3
+  },
+  {
+    "id": 4,
+    "team1": "Rojiblanca 7",
+    "team2": "The Party Football Club",
+    "type": "League",
+    "result": "Win",
+    "goals1": 8,
+    "goals2": 4
   }
 ]
