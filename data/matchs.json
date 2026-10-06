@@ -21,7 +21,7 @@
     "id": 3,
     "team1": "Rojiblanca 11",
     "team2": "CLUB DEFENSE BALARD A",
-    "type": "League",
+    "type": "Cup",
     "result": "Loss",
     "goals1": 0,
     "goals2": 3
@@ -33,6 +33,15 @@
     "type": "League",
     "result": "Win",
     "goals1": 8,
+    "goals2": 4
+  },
+  {
+    "id": 5,
+    "team1": "Rojiblanca 11",
+    "team2": "Cheminots du Landy",
+    "type": "Cup",
+    "result": "Loss",
+    "goals1": 3,
     "goals2": 4
   }
 ]
