@@ -12,7 +12,7 @@
     "id": 2,
     "team1": "Rojiblanca 7",
     "team2": "TP Carthage",
-    "type": "League",
+    "type": "Cup",
     "result": "Win",
     "goals1": 3,
     "goals2": 0
@@ -30,7 +30,7 @@
     "id": 4,
     "team1": "Rojiblanca 7",
     "team2": "The Party Football Club",
-    "type": "League",
+    "type": "Cup",
     "result": "Win",
     "goals1": 8,
     "goals2": 4
@@ -43,5 +43,14 @@
     "result": "Loss",
     "goals1": 3,
     "goals2": 4
+  },
+  {
+    "id": 6,
+    "team1": "Rojiblanca 7",
+    "team2": "Lokomotiv des 2 gares",
+    "type": "Cup",
+    "result": "Win",
+    "goals1": 4,
+    "goals2": 2
   }
 ]
