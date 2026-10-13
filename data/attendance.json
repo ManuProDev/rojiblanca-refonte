@@ -718,5 +718,125 @@
     "matchId": 6,
     "player": "Simon Wrn",
     "present": false
+  },
+  {
+    "matchId": 7,
+    "player": "Alexandre Mdg",
+    "present": false
+  },
+  {
+    "matchId": 7,
+    "player": "Hugo Prd",
+    "present": true
+  },
+  {
+    "matchId": 7,
+    "player": "Sami Prk",
+    "present": true
+  },
+  {
+    "matchId": 7,
+    "player": "Manuel Prn",
+    "present": true
+  },
+  {
+    "matchId": 7,
+    "player": "Octave Gvr",
+    "present": false
+  },
+  {
+    "matchId": 7,
+    "player": "Hugo Frq",
+    "present": false
+  },
+  {
+    "matchId": 7,
+    "player": "Augustin Gsm",
+    "present": true
+  },
+  {
+    "matchId": 7,
+    "player": "Sophiane Mlh",
+    "present": false
+  },
+  {
+    "matchId": 7,
+    "player": "Alexis Mcl",
+    "present": true
+  },
+  {
+    "matchId": 7,
+    "player": "Hugo Lcm",
+    "present": true
+  },
+  {
+    "matchId": 7,
+    "player": "Bastien Lbc",
+    "present": false
+  },
+  {
+    "matchId": 7,
+    "player": "Hugo Prz",
+    "present": true
+  },
+  {
+    "matchId": 7,
+    "player": "Rayane Bsr",
+    "present": false
+  },
+  {
+    "matchId": 7,
+    "player": "Naël Lts",
+    "present": true
+  },
+  {
+    "matchId": 7,
+    "player": "Yacine Imn",
+    "present": true
+  },
+  {
+    "matchId": 7,
+    "player": "Francisco Bmd",
+    "present": false
+  },
+  {
+    "matchId": 7,
+    "player": "Dani Grc",
+    "present": true
+  },
+  {
+    "matchId": 7,
+    "player": "Amir Blg",
+    "present": true
+  },
+  {
+    "matchId": 7,
+    "player": "Florian Ndx",
+    "present": false
+  },
+  {
+    "matchId": 7,
+    "player": "Marius Srs",
+    "present": false
+  },
+  {
+    "matchId": 7,
+    "player": "Adel Mln",
+    "present": true
+  },
+  {
+    "matchId": 7,
+    "player": "Leo Mcl",
+    "present": true
+  },
+  {
+    "matchId": 7,
+    "player": "Marin Bbt",
+    "present": true
+  },
+  {
+    "matchId": 7,
+    "player": "Simon Wrn",
+    "present": true
   }
 ]
