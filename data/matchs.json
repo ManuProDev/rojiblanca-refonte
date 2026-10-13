@@ -52,5 +52,14 @@
     "result": "Win",
     "goals1": 4,
     "goals2": 2
+  },
+  {
+    "id": 7,
+    "team1": "Rojiblanca 11",
+    "team2": "ASCP 18",
+    "type": "League",
+    "result": "Win",
+    "goals1": 6,
+    "goals2": 0
   }
 ]
