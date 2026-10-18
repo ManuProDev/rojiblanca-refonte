@@ -31,5 +31,14 @@
   { "id": 30, "matchId": 7, "type": "League", "goal": "Hugo Lcm", "assist": "Hugo Prz", "ag": false },
   { "id": 31, "matchId": 7, "type": "League", "goal": "Hugo Lcm", "assist": "Amir Blg", "ag": false },
   { "id": 32, "matchId": 7, "type": "League", "goal": "Hugo Lcm", "assist": "Solo", "ag": false },
-  { "id": 33, "matchId": 7, "type": "League", "goal": "Hugo Prz", "assist": "Solo", "ag": false }
+  { "id": 33, "matchId": 7, "type": "League", "goal": "Hugo Prz", "assist": "Solo", "ag": false },
+  { "id": 34, "matchId": 8, "type": "Cup", "goal": "Hugo Lcm", "assist": "Manuel Prn", "ag": false },
+  { "id": 35, "matchId": 8, "type": "Cup", "goal": "Hugo Lcm", "assist": "Naël Lts", "ag": false },
+  { "id": 36, "matchId": 8, "type": "Cup", "goal": "Hugo Lcm", "assist": "Naël Lts", "ag": false },
+  { "id": 37, "matchId": 8, "type": "Cup", "goal": "Hugo Lcm", "assist": "Hugo Frq", "ag": false },
+  { "id": 38, "matchId": 8, "type": "Cup", "goal": "Hugo Lcm", "assist": "Hugo Frq", "ag": false },
+  { "id": 39, "matchId": 8, "type": "Cup", "goal": "Hugo Lcm", "assist": "Florian Ndx", "ag": false },
+  { "id": 40, "matchId": 8, "type": "Cup", "goal": "Rayane Bsr", "assist": "Hugo Lcm", "ag": false },
+  { "id": 41, "matchId": 8, "type": "Cup", "goal": "Rayane Bsr", "assist": "Hugo Lcm", "ag": false },
+  { "id": 42, "matchId": 8, "type": "Cup", "goal": "Hugo Frq", "assist": "Solo", "ag": false }
 ]
