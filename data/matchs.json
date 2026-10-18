@@ -61,5 +61,14 @@
     "result": "Win",
     "goals1": 6,
     "goals2": 0
+  },
+  {
+    "id": 8,
+    "team1": "Rojiblanca 7",
+    "team2": "Us Armada",
+    "type": "Cup",
+    "result": "Win",
+    "goals1": 9,
+    "goals2": 3
   }
 ]
