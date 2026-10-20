@@ -40,5 +40,10 @@
   { "id": 39, "matchId": 8, "type": "Cup", "goal": "Hugo Lcm", "assist": "Florian Ndx", "ag": false },
   { "id": 40, "matchId": 8, "type": "Cup", "goal": "Rayane Bsr", "assist": "Hugo Lcm", "ag": false },
   { "id": 41, "matchId": 8, "type": "Cup", "goal": "Rayane Bsr", "assist": "Hugo Lcm", "ag": false },
-  { "id": 42, "matchId": 8, "type": "Cup", "goal": "Hugo Frq", "assist": "Solo", "ag": false }
+  { "id": 42, "matchId": 8, "type": "Cup", "goal": "Hugo Frq", "assist": "Solo", "ag": false },
+  { "id": 43, "matchId": 9, "type": "League", "goal": "Hugo Lcm", "assist": "Amir Blg", "ag": false },
+  { "id": 44, "matchId": 9, "type": "League", "goal": "Hugo Lcm", "assist": "Amir Blg", "ag": false },
+  { "id": 45, "matchId": 9, "type": "League", "goal": "Hugo Lcm", "assist": "Amir Blg", "ag": false },
+  { "id": 46, "matchId": 9, "type": "League", "goal": "Hugo Lcm", "assist": "Amir Blg", "ag": false },
+  { "id": 47, "matchId": 9, "type": "League", "goal": "Hugo Lcm", "assist": "Hugo Prz", "ag": false }
 ]
