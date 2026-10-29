@@ -79,5 +79,14 @@
     "result": "Win",
     "goals1": 5,
     "goals2": 4
+  },
+  {
+    "id": 10,
+    "team1": "Rojiblanca 11",
+    "team2": "Ma Belle Etoile",
+    "type": "League",
+    "result": "Loss",
+    "goals1": 2,
+    "goals2": 3
   }
 ]
