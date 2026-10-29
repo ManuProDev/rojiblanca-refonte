@@ -45,5 +45,7 @@
   { "id": 44, "matchId": 9, "type": "League", "goal": "Hugo Lcm", "assist": "Amir Blg", "ag": false },
   { "id": 45, "matchId": 9, "type": "League", "goal": "Hugo Lcm", "assist": "Amir Blg", "ag": false },
   { "id": 46, "matchId": 9, "type": "League", "goal": "Hugo Lcm", "assist": "Amir Blg", "ag": false },
-  { "id": 47, "matchId": 9, "type": "League", "goal": "Hugo Lcm", "assist": "Hugo Prz", "ag": false }
+  { "id": 47, "matchId": 9, "type": "League", "goal": "Hugo Lcm", "assist": "Hugo Prz", "ag": false },
+  { "id": 48, "matchId": 10, "type": "League", "goal": "Hugo Prz", "assist": "Marin Bbt", "ag": false },
+  { "id": 49, "matchId": 10, "type": "League", "goal": "Francisco Bmd", "assist": "Naël Lts", "ag": false }
 ]
