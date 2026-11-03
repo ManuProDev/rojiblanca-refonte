@@ -88,5 +88,14 @@
     "result": "Loss",
     "goals1": 2,
     "goals2": 3
+  },
+  {
+    "id": 11,
+    "team1": "Rojiblanca 11",
+    "team2": "Kasas",
+    "type": "League",
+    "result": "Draw",
+    "goals1": 2,
+    "goals2": 2
   }
 ]
