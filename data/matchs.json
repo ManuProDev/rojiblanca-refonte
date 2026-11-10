@@ -106,5 +106,14 @@
     "result": "Win",
     "goals1": 2,
     "goals2": 1
+  },
+  {
+    "id": 13,
+    "team1": "Rojiblanca 11",
+    "team2": "Spartak Retrograd",
+    "type": "Cup",
+    "result": "Win",
+    "goals1": 4,
+    "goals2": 1
   }
 ]
