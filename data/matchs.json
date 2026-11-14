@@ -115,5 +115,14 @@
     "result": "Win",
     "goals1": 4,
     "goals2": 1
+  },
+  {
+    "id": 14,
+    "team1": "Rojiblanca 7",
+    "team2": "OGC Nietzsche",
+    "type": "League",
+    "result": "Loss",
+    "goals1": 4,
+    "goals2": 6
   }
 ]
