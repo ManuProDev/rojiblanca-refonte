@@ -124,5 +124,14 @@
     "result": "Loss",
     "goals1": 4,
     "goals2": 6
+  },
+  {
+    "id": 15,
+    "team1": "Rojiblanca 7",
+    "team2": "Agatha Strongboly",
+    "type": "League",
+    "result": "Draw",
+    "goals1": 2,
+    "goals2": 2
   }
 ]
