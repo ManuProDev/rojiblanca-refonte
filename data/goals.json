@@ -59,5 +59,7 @@
   { "id": 58, "matchId": 14, "type": "League", "goal": "Leo Mcl", "assist": "Florian Ndx", "ag": false },
   { "id": 59, "matchId": 14, "type": "League", "goal": "Hugo Prz", "assist": "Leo Mcl", "ag": false },
   { "id": 60, "matchId": 14, "type": "League", "goal": "Hugo Prz", "assist": "Amir Blg", "ag": false },
-  { "id": 61, "matchId": 14, "type": "League", "goal": "Hugo Lcm", "assist": "Solo", "ag": false }
+  { "id": 61, "matchId": 14, "type": "League", "goal": "Hugo Lcm", "assist": "Solo", "ag": false },
+  { "id": 62, "matchId": 15, "type": "League", "goal": "Hugo Lcm", "assist": "Alexis Mcl", "ag": false },
+  { "id": 63, "matchId": 15, "type": "League", "goal": "Alexis Mcl", "assist": "Hugo Frq", "ag": false }
 ]
